@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**lunouva/lunouva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Kyle 👋
 
-Here are some ideas to get you started:
+**I turn everyday operational headaches into software people can actually use.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Food safety · Frontline teams · Practical automation
+
+</div>
+
+---
+
+### What I'm building
+
+🍽️ **[Food Allergy Chart](https://foodallergychart.com)** — helping restaurants share safer, clearer allergy guidance with their guests.
+
+🗓️ **Shiftway** — simpler scheduling and team coordination for hourly teams.
+
+🧰 **Retail operations tools** — inventory, checklists, printing, and small automations that remove repetitive work.
+
+### Featured build
+
+**[Cold Stone Checklist](https://github.com/lunouva/cold-stone-checklist)**  
+A React + Vite + Supabase checklist app built around the way a real store team works.
+
+### How I build
+
+- Start with a real workflow, not a feature list
+- Ship something useful, then keep refining it
+- Care about the last 10%: clarity, reliability, and the human experience
+- Use AI as a serious building partner—not a substitute for product judgment
+
+### Tools I reach for
+
+TypeScript · React · Next.js · Node.js · PostgreSQL · Supabase
+
+> If a workflow is frustrating, I probably want to build the fix.
